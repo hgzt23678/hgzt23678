@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={hgzt23678}
+)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **hgzt23678/hgzt23678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
